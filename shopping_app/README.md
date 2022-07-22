@@ -1,6 +1,6 @@
-# shopping app
+# My Shop app
 
-Sample Shopping Application in Flutter application.
+Sample Shop Application in Flutter application.
 
 ## Getting Started
 
