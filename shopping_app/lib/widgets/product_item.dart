@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shoping_app/models/product.dart';
-import 'package:shoping_app/screens/product_details_screen.dart';
+
+import '../models/product.dart';
+import '../screens/product_details_screen.dart';
 
 class ProductItem extends StatelessWidget {
   const ProductItem({Key? key, required this.item}) : super(key: key);

@@ -1,4 +1,4 @@
-import 'package:shoping_app/models/product.dart';
+import '../models/product.dart';
 
 List<Product> DEFAULT_LOADED_PRODUCTS = [
   Product(
